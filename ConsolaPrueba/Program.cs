@@ -15,8 +15,13 @@ namespace ConsolaPrueba
             //Fin de Clase
             Console.WriteLine("Time is ver ");
             Console.WriteLine("Hola mundo");
-
+             int=suma;
+            Console.ReadKey();
         }
-
+        //Funcion suma
+        public static int funcionSuma(int a, int b)
+        {
+            return (a * 10 + b * 100);
+        }
     }
 }
