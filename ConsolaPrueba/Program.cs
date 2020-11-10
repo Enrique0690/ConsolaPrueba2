@@ -13,6 +13,9 @@ namespace ConsolaPrueba
             Console.WriteLine("Bienvenido a la PUCESE");
             Console.WriteLine("Segundo de Tic");
             //Fin de Clase
+            Console.WriteLine("Time is ver ");
+
         }
+
     }
 }
