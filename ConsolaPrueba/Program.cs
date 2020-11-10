@@ -14,6 +14,7 @@ namespace ConsolaPrueba
             Console.WriteLine("Segundo de Tic");
             //Fin de Clase
             Console.WriteLine("Time is ver ");
+            Console.WriteLine("Hola mundo");
 
         }
 
